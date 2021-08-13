@@ -1,0 +1,5 @@
+AnonymousInnerClassLambda.Infer
+AnonymousInnerClassLambda.Interf1
+AnonymousInnerClassLambda.Test1Lambda
+AnonymousInnerClassLambda.Infer1
+AnonymousInnerClassLambda.Interf

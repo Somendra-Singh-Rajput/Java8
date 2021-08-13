@@ -1,0 +1,3 @@
+Collections.MyComp1
+Collections.MyComp
+Collections.MapList

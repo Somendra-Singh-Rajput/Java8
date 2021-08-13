@@ -1,0 +1,2 @@
+StaticMethod.Interf
+StaticMethod.Test
